@@ -35,43 +35,43 @@ This repository contains several Jupyter notebooks for analyzing and predicting 
 
 ## Notebooks Overview
 
-**CFR-major_regression_code.ipynb**  
+- **CFR-major_regression_code.ipynb**  
    This notebook implements regression models for the major class in the CFR (Classification Followed by Regression) approach, predicting yield for the reaction dataset.
    
- **CFR-minor-regression-code.ipynb**  
+ - **CFR-minor-regression-code.ipynb**  
    Focused on regression for the minor class in the CFR approach, predicting yield for the reaction dataset.
 
-**DNN-classification.ipynb**  
+- **DNN-classification.ipynb**  
    Implements a Deep Neural Network (DNN) for classifying the dataset into major and minor classes, based on ULMFiT model extracting encoding features.
 
- **DR vs CFR-plot.ipynb**  
+ - **DR vs CFR-plot.ipynb**  
    Generates comparative plots to analyze the performance difference between the Direct Regression (DR) and Classification Followed by Regression (CFR) methods.
 
-**Yield distribution.ipynb**  
+- **Yield distribution.ipynb**  
    Visualizes the distribution of yields in the dataset, providing insights into data skewness and class boundaries.
 
-**classification_spider_plot.ipynb**  
+- **classification_spider_plot.ipynb**  
    Creates spider plots to visualize the classification performance metrics, highlighting differences between major and minor classes.
 
-**direct_regression_code.ipynb**  
+- **direct_regression_code.ipynb**  
    Implements the Direct Regression (DR) method, predicting yield for the reaction dataset.
 
-**extract-ulmfitencoding-features.ipynb**  
+- **extract-ulmfitencoding-features.ipynb**  
    Extracts features using ULMFiT (Universal Language Model Fine-tuning) encoding for downstream tasks like classification and regression.
 
-**heatmap_analysis.ipynb**  
+- **heatmap_analysis.ipynb**  
    Generates heatmaps to analyze correlations and dependencies between various reaction partners.
 
-**m-cha-performance-barplot.ipynb**  
+- **m-cha-performance-barplot.ipynb**  
     Creates bar plots to compare model performances on the m-CHA dataset.
 
-**pretrained_model_general_domain_LM.ipynb**  
+- **pretrained_model_general_domain_LM.ipynb**  
     Demonstrates the use of a pre-trained general-domain language model for encoding and analyzing reaction data.
 
-**smote.ipynb**  
+- **smote.ipynb**  
     Applies the SMOTE (Synthetic Minority Oversampling Technique) method to address class imbalance in the dataset.
 
-**tmap-plot.ipynb**  
+- **tmap-plot.ipynb**  
     Visualizes reaction data using tMAP (Tree-Map) plots to identify patterns and clusters.
 
 ---
