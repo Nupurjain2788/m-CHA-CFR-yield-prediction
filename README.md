@@ -29,4 +29,15 @@ Please download the datasets and place them in the ./Data/Pretraining-data folde
 ## Project Notebooks Overview
 This repository contains a series of Jupyter notebooks for building CFR based models, and performing %Yield predictions.
 
+## Acknowledgements
+We would like to acknowledge the following works,
+
+https://github.com/Sunojlab/Transfer_Learning_in_Catalysis
+
+https://github.com/skinnider/low-data-generative-models
+
+https://github.com/isayev/ReLeaSE
+
+https://github.com/alhqlearn/REEXPLORE.git
+
 
