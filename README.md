@@ -25,12 +25,12 @@ Ensure you have the following installed before proceeding:
 
 All datasets used for pre-training can be accessed via the link below:
 
-- (https://drive.google.com/drive/folders/1bVTGxsm43jYrCcbuV5p2dxGYfbr5ZKYl?usp=drive_link)
+(https://drive.google.com/drive/folders/1bVTGxsm43jYrCcbuV5p2dxGYfbr5ZKYl?usp=drive_link)
 
-Please download the datasets and place them in the `./Data/Pretraining-data` folder.
+Please download the datasets and place them in the `./Data/Pretraining-dataset` folder.
 
 ### Pretraining Weights and Biases
-Pretraining weights and biases can also be found in the provided Google Drive folder. After downloading, upload the weights into the `./Data/Pretraining-weights-bias` folder for proper model initialization.
+Pretraining weights and biases can also be found in the provided Google Drive folder. After downloading, upload the weights into the `./Data/Pretraining_weights_bias` folder for proper model initialization.
 
 # Project Overview
 
