@@ -9,7 +9,7 @@ Ensure you have the following installed before proceeding:
 - **CUDA**: 11.3
 
 ## Environmental Setup
-Create a new Conda environment:
+1. Create a new Conda environment:
    ```bash
    conda create --name EnsembleAC python=3.7.16
    conda activate EnsembleAC
@@ -17,7 +17,7 @@ Create a new Conda environment:
    pip install -r requirements.txt
 
 ## Git Repositories
-Clone these required repositories after setting up the environment:
+2. Clone these required repositories after setting up the environment:
    ```bash
    git clone https://github.com/fastai/fastai1.git
 
