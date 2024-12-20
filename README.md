@@ -1,6 +1,6 @@
 # CFR: Classification Followed by Regression
 
-# EnsembleAC: Deep Learning for Ligand Generation and %ee Prediction
+# CFR-based model for yield prediction of m-CHA dataset
 
 ## Prerequisites
 Ensure you have the following installed before proceeding:
