@@ -21,4 +21,12 @@ Ensure you have the following installed before proceeding:
    ```bash
    git clone https://github.com/fastai/fastai1.git
 
+## Preparation
+All datasets used for pre-training can be accessed via the link below:
+https://drive.google.com/drive/folders/1bVTGxsm43jYrCcbuV5p2dxGYfbr5ZKYl?usp=drive_link
+Please download the datasets and place them in the ./Data/Pretraining-data folder.
+
+## Project Notebooks Overview
+This repository contains a series of Jupyter notebooks for building CFR based models, and performing %Yield predictions.
+
 
