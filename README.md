@@ -34,15 +34,23 @@ Pretraining weights and biases can also be found in the provided Google Drive fo
 
 # Project Overview
 
-This repository contains several Jupyter notebooks for analyzing and predicting yield prediction for chemical reaction performance. Below is a description of each notebook:
+## Code
 
-## Notebooks Overview
+A) The notebook for pre-training the language model is given in the ‘Pre-training’ folder.
 
+B) All the notebooks for regressor fine-tuning for DR and CFR methods are present in the ‘Fine-tuning’ folder.
+- **direct_regression_code.ipynb**  
+   Implements the Direct Regression (DR) method, predicting yield for the reaction dataset.
+  
 - **CFR-major_regression_code.ipynb**  
    This notebook implements regression models for the major class in the CFR (Classification Followed by Regression) approach, predicting yield for the reaction dataset.
    
  - **CFR-minor-regression-code.ipynb**  
    Focused on regression for the minor class in the CFR approach, predicting yield for the reaction dataset.
+  
+This repository contains several Jupyter notebooks for analyzing and predicting yield prediction for chemical reaction performance. Below is a description of each notebook:
+
+## Notebooks Overview
 
 - **DNN-classification.ipynb**  
    Implements a Deep Neural Network (DNN) for classifying the dataset into major and minor classes, based on ULMFiT model extracting encoding features.
@@ -55,9 +63,6 @@ This repository contains several Jupyter notebooks for analyzing and predicting 
 
 - **classification_spider_plot.ipynb**  
    Creates spider plots to visualize the classification performance metrics, highlighting differences between major and minor classes.
-
-- **direct_regression_code.ipynb**  
-   Implements the Direct Regression (DR) method, predicting yield for the reaction dataset.
 
 - **extract-ulmfitencoding-features.ipynb**  
    Extracts features using ULMFiT (Universal Language Model Fine-tuning) encoding for downstream tasks like classification and regression.
