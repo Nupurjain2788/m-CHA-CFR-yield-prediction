@@ -1,0 +1,7 @@
+fastprogress==1.0.3
+fcd-torch==1.0.7
+scikit-learn == 1.5.2
+networkx==2.6.3
+spacy==3.5.2
+PyTDC==0.4.0
+seaborn==0.11.1
