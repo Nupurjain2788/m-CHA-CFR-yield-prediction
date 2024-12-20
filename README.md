@@ -35,14 +35,14 @@ This repository contains several Jupyter notebooks for analyzing and predicting 
 
 ## Notebooks Overview
 
-1. **CFR-major_regression_code.ipynb**  
-   This notebook implements regression models for the major class in the CFR (Classification Followed by Regression) approach, predicting key properties for the primary dataset.
-
+**CFR-major_regression_code.ipynb**  
+   This notebook implements regression models for the major class in the CFR (Classification Followed by Regression) approach, predicting yield for the reaction dataset.
+   
 2. **CFR-minor-regression-code.ipynb**  
-   Focused on regression for the minor class in the CFR approach, this notebook handles less frequent reaction data and ensures balanced performance.
+   Focused on regression for the minor class in the CFR approach, predicting yield for the reaction dataset.
 
 3. **DNN-classification.ipynb**  
-   Implements a Deep Neural Network (DNN) for classifying the dataset into major and minor classes, based on reaction performance and features.
+   Implements a Deep Neural Network (DNN) for classifying the dataset into major and minor classes, based on ULMFiT model extracting encoding features.
 
 4. **DR vs CFR-plot.ipynb**  
    Generates comparative plots to analyze the performance difference between the Direct Regression (DR) and Classification Followed by Regression (CFR) methods.
@@ -54,16 +54,16 @@ This repository contains several Jupyter notebooks for analyzing and predicting 
    Creates spider plots to visualize the classification performance metrics, highlighting differences between major and minor classes.
 
 7. **direct_regression_code.ipynb**  
-   Implements the Direct Regression (DR) method, predicting properties without classifying the dataset beforehand.
+   Implements the Direct Regression (DR) method, predicting yield for the reaction dataset.
 
 8. **extract-ulmfitencoding-features.ipynb**  
    Extracts features using ULMFiT (Universal Language Model Fine-tuning) encoding for downstream tasks like classification and regression.
 
 9. **heatmap_analysis.ipynb**  
-   Generates heatmaps to analyze correlations and dependencies between various features and reaction outcomes.
+   Generates heatmaps to analyze correlations and dependencies between various reaction partners.
 
 10. **m-cha-performance-barplot.ipynb**  
-    Creates bar plots to compare model performances on the meta-C-H activation (MCHA) dataset.
+    Creates bar plots to compare model performances on the m-CHA dataset.
 
 11. **pretrained_model_general_domain_LM.ipynb**  
     Demonstrates the use of a pre-trained general-domain language model for encoding and analyzing reaction data.
