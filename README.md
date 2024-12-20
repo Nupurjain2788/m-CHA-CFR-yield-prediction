@@ -27,11 +27,10 @@ https://drive.google.com/drive/folders/1bVTGxsm43jYrCcbuV5p2dxGYfbr5ZKYl?usp=dri
 
 Please download the datasets and place them in the ./Data/Pretraining-data folder.
 
-## Project Notebooks Overview
-This repository contains a series of Jupyter notebooks for building CFR based models, and performing %Yield predictions.
+
 # Project Overview
 
-This repository contains several Jupyter notebooks for analyzing and predicting chemical reaction performance, including classification and regression tasks. Below is a description of each notebook:
+This repository contains several Jupyter notebooks for analyzing and predicting yield prediction for chemical reaction performance. Below is a description of each notebook:
 
 ## Notebooks Overview
 
