@@ -21,12 +21,16 @@ Ensure you have the following installed before proceeding:
    ```bash
    git clone https://github.com/fastai/fastai1.git
 
-## Preparation
+## Dataset and Pretraining Weights
+
 All datasets used for pre-training can be accessed via the link below:
-https://drive.google.com/drive/folders/1bVTGxsm43jYrCcbuV5p2dxGYfbr5ZKYl?usp=drive_link
 
-Please download the datasets and place them in the ./Data/Pretraining-data folder.
+- (https://drive.google.com/drive/folders/1bVTGxsm43jYrCcbuV5p2dxGYfbr5ZKYl?usp=drive_link)
 
+Please download the datasets and place them in the `./Data/Pretraining-data` folder.
+
+### Pretraining Weights and Biases
+Pretraining weights and biases can also be found in the provided Google Drive folder. After downloading, upload the weights into the `./Data/Pretraining-weights-bias` folder for proper model initialization.
 
 # Project Overview
 
