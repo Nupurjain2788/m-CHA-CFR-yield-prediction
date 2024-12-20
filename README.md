@@ -75,9 +75,6 @@ This repository contains several Jupyter notebooks for analyzing and predicting 
 
 ---
 
-## Requirements
-Refer to the [requirements.txt](./requirements.txt) file for details on dependencies.
-
 ## Notes
 - These notebooks are designed for chemical reaction performance prediction tasks and are optimized for datasets with imbalanced classes.
 - For detailed usage, check comments within each notebook or reach out to contributors.
