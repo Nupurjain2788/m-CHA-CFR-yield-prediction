@@ -19,6 +19,6 @@ Ensure you have the following installed before proceeding:
 ## Git Repositories
 2. Clone these required repositories after setting up the environment:
    ```bash
-git clone https://github.com/fastai/fastai1.git
+   git clone https://github.com/fastai/fastai1.git
 
 
