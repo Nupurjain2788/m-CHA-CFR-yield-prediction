@@ -38,40 +38,40 @@ This repository contains several Jupyter notebooks for analyzing and predicting 
 **CFR-major_regression_code.ipynb**  
    This notebook implements regression models for the major class in the CFR (Classification Followed by Regression) approach, predicting yield for the reaction dataset.
    
-2. **CFR-minor-regression-code.ipynb**  
+ **CFR-minor-regression-code.ipynb**  
    Focused on regression for the minor class in the CFR approach, predicting yield for the reaction dataset.
 
-3. **DNN-classification.ipynb**  
+**DNN-classification.ipynb**  
    Implements a Deep Neural Network (DNN) for classifying the dataset into major and minor classes, based on ULMFiT model extracting encoding features.
 
-4. **DR vs CFR-plot.ipynb**  
+ **DR vs CFR-plot.ipynb**  
    Generates comparative plots to analyze the performance difference between the Direct Regression (DR) and Classification Followed by Regression (CFR) methods.
 
-5. **Yield distribution.ipynb**  
+**Yield distribution.ipynb**  
    Visualizes the distribution of yields in the dataset, providing insights into data skewness and class boundaries.
 
-6. **classification_spider_plot.ipynb**  
+**classification_spider_plot.ipynb**  
    Creates spider plots to visualize the classification performance metrics, highlighting differences between major and minor classes.
 
-7. **direct_regression_code.ipynb**  
+**direct_regression_code.ipynb**  
    Implements the Direct Regression (DR) method, predicting yield for the reaction dataset.
 
-8. **extract-ulmfitencoding-features.ipynb**  
+**extract-ulmfitencoding-features.ipynb**  
    Extracts features using ULMFiT (Universal Language Model Fine-tuning) encoding for downstream tasks like classification and regression.
 
-9. **heatmap_analysis.ipynb**  
+**heatmap_analysis.ipynb**  
    Generates heatmaps to analyze correlations and dependencies between various reaction partners.
 
-10. **m-cha-performance-barplot.ipynb**  
+**m-cha-performance-barplot.ipynb**  
     Creates bar plots to compare model performances on the m-CHA dataset.
 
-11. **pretrained_model_general_domain_LM.ipynb**  
+**pretrained_model_general_domain_LM.ipynb**  
     Demonstrates the use of a pre-trained general-domain language model for encoding and analyzing reaction data.
 
-12. **smote.ipynb**  
+**smote.ipynb**  
     Applies the SMOTE (Synthetic Minority Oversampling Technique) method to address class imbalance in the dataset.
 
-13. **tmap-plot.ipynb**  
+**tmap-plot.ipynb**  
     Visualizes reaction data using tMAP (Tree-Map) plots to identify patterns and clusters.
 
 ---
