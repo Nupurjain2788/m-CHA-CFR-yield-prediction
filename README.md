@@ -17,7 +17,8 @@ Ensure you have the following installed before proceeding:
    pip install -r requirements.txt
 
 ## Git Repositories
-Clone these required repositories after setting up the environment:
+2. Clone these required repositories after setting up the environment:
+   ```bash
 git clone https://github.com/fastai/fastai1.git
 
 
