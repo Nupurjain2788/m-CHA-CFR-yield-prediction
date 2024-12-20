@@ -1,2 +1,2 @@
-# m-CHA-CFR-yield-prediction
+# CFR
 Classifcationfollowed by regression
