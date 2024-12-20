@@ -1,6 +1,6 @@
 
 
-# CFR (Classification followed by Regression) -based model for yield prediction of m-CHA reaction dataset
+# CFR (Classification followed by Regression) based model for yield prediction of m-CHA reaction dataset
 
 ## Prerequisites
 Ensure you have the following installed before proceeding:
