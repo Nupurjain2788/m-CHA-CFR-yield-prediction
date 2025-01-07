@@ -11,8 +11,8 @@ Ensure you have the following installed before proceeding:
 ## Environmental Setup
 1. Create a new Conda environment:
    ```bash
-   conda create --name EnsembleAC python=3.7.16
-   conda activate EnsembleAC
+   conda create --name ulmfit python=3.7.16
+   conda activate ulmfit
    conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
    pip install -r requirements.txt
 
