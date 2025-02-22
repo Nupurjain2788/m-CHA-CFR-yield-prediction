@@ -27,7 +27,7 @@ Ensure you have the following installed before proceeding:
 
 All datasets used for pre-training can be accessed via the link below:
 
-(https://drive.google.com/drive/folders/1bVTGxsm43jYrCcbuV5p2dxGYfbr5ZKYl?usp=drive_link)
+https://drive.google.com/drive/folders/1bVTGxsm43jYrCcbuV5p2dxGYfbr5ZKYl?usp=sharing
 
 Please download the datasets and place them in the `./Data/Pretraining-dataset` folder.
 
